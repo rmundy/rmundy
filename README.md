@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rmundy
 - 👀 I’m interested in cloud development, Rust, Go, AI and Machine Learning
 - 🌱 I’m currently learning Hyperledger Fabric, Blockchain development
-- 💞️ I’m looking to collaborate on driverless cars
+- 💞️ I’m looking to collaborate on driverless cars, dynamic components for mobile
 - 📫 How to reach me @ robert.l.mundy@gmail.com
 
 <!---
